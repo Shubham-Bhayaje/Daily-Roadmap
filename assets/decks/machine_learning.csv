@@ -1,0 +1,8 @@
+Topic,Explanation,Category
+Supervised Learning,"Algorithms learn from labeled training data to predict outcomes for unseen data (e.g., Linear Regression, Random Forests, Neural Networks).","ML Fundamentals"
+Unsupervised Learning,"Discovers hidden patterns or data groupings without human guidance or pre-existing labels (e.g., K-Means, PCA, Hierarchical Clustering).","ML Fundamentals"
+Overfitting vs Underfitting,"Overfitting occurs when a model learns training data noise and fails to generalize (high variance). Underfitting occurs when a model is too simple to capture trends (high bias).","Model Evaluation"
+Gradient Descent,"Optimization algorithm used to minimize the loss function by iteratively moving in the direction of steepest descent determined by the negative gradient.","Optimization"
+Backpropagation,"Core algorithm for training neural networks. Uses the chain rule of calculus to compute loss gradients with respect to each weight and bias in reverse order.","Deep Learning"
+Convolutional Neural Networks (CNNs),"Deep learning architecture using convolutional kernels and pooling layers, highly effective for image processing and spatial pattern recognition.","Deep Learning"
+Transformer Architecture,"Architecture based on Self-Attention mechanisms that eliminates recurrence, enabling massive parallelization for NLP and vision models like BERT and GPT.","LLMs & GenAI"
